@@ -1,5 +1,5 @@
 
-# 🛒 PriceSense AI
+#  PriceSense AI
 
 ## Smart Buy Now or Wait Decision System
 
@@ -7,12 +7,12 @@ PriceSense AI is a machine learning based shopping assistant that predicts futur
 
 ## Features
 
-- 📊 Price trend visualization
-- 🤖 Machine learning based prediction
-- 🛒 Buy Now / Wait recommendation
-- 💰 Potential savings calculation
-- 🛍 Smart cart optimization
-- 🌐 Product price scraping
+-  Price trend visualization
+-  Machine learning based prediction
+-  Buy Now / Wait recommendation
+-  Potential savings calculation
+-  Smart cart optimization
+-  Product price scraping
 
 ## Tech Stack
 
@@ -28,31 +28,22 @@ PriceSense AI is a machine learning based shopping assistant that predicts futur
 
 
 PriceSense
-│
-├── app.py
-├── scraper.py
-├── data/
-├── screenshots/
-└── requirements.txt
+ app.py
+ scraper.py
+ data/
+ screenshots/
+ requirements.txt
 
 
 ## How to Run
 
 Install dependencies:
-
-
 pip install -r requirements.txt
 
-
 Run:
-
-
 streamlit run app.py
 
-
-
 ## Author
-
 Pranjal Chougule
 
 
