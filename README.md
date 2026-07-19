@@ -34,6 +34,13 @@ PriceSense
  screenshots/
  requirements.txt
 
+### Page 1
+
+![pricesense-3.png](pricesense-3.png)
+
+### Page 2
+
+![pricesense-2.png](pricesense-2.png)
 
 ## How to Run
 
